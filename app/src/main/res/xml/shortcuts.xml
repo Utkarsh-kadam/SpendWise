@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="compose"
+        android:enabled="true"
+        android:icon="@drawable/add_image"
+        android:shortcutShortLabel="@string/shortcut"
+        android:shortcutLongLabel="@string/shortcut"
+        android:shortcutDisabledMessage="@string/app_name">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.dev.spendwise"
+            android:targetClass="com.dev.spendwise.AddExpenseNew" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>

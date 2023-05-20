@@ -1,0 +1,51 @@
+
+|   build.gradle
+|   gradle.properties
+|   gradlew
+|   gradlew.bat
+|   settings.gradle
+|   
+|---.gradle
++---app
+|
+|   |   |   |   +---debug
+|   |   |   |   \---debugAndroidTest
+|   |   |   +---data_binding_layout_info_type_merge
+|   |   |   |   +---debug
+|   |   |   |   |   \---out
+|   |   |   |   |           activity_add_expense-layout.xml
+|   |   |   |   |           activity_add_expense_new-layout.xml
+|   |   |   |   |           activity_dash_board-layout.xml
+|   |   |   |   |           activity_main-layout.xml
+|   |   |   |   |           activity_manage_cat-layout.xml
+|   |   |   |   |           activity_popup-layout.xml
+|   |   |   |   |           activity_sign_up-layout.xml
+|   |   |   |   |           activity_summary-layout.xml
+|   |   |   |   |           activity_transaction-layout.xml
+|   |   |   |   |           activity_update-layout.xml
+|   |   |   |   |           cat_row-layout.xml
+|   |   |   |   |           expense_row-layout.xml
+|   |   |   |   |           list_item_layout-layout.xml                        
+|   |       \---kotlin-classes
+|   |           +---debug
+|   |           |   +---com
+|   |           |   |   \---dev
+|   |           |   |       \---spendwise
+|   |           |   |               AddExpenseNew.class
+|   |           |   |               CatAdaptor.class
+|   |           |   |               DashBoardActivity.class
+|   |           |   |               DatabaseHelper.class
+|   |           |   |               ExpenseAdapter.class
+|   |           |   |               ExpenseModel.class
+|   |           |   |               MainActivity.class
+|   |           |   |               ManageCatActivity.class
+|   |           |   |               MyAdapter.class
+|   |           |   |               MyNotificationPublisher.class
+|   |           |   |               OnItemsClick.class
+|   |           |   |               popup.class
+|   |           |   |               SignUpActivity.class
+|   |           |   |               summaryActivity.class
+|   |           |   |               TransactionActivity.class
+|   |           |   |               UpdateActivity.class
+              
+

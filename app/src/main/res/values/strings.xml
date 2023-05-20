@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">SpendWise</string>
+    <string name="shortcut">Add Expense</string>
+
+    <style name="AppCompatDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="colorAccent">@color/blue</item>
+    </style>
+
+
+    <style name="MatchSpinnerStyle" parent="android:style/Widget.ListView.DropDown">
+        <item name="android:divider">#C0C4C7</item>
+        <item name="android:dividerHeight">1dp</item>
+
+    </style>
+
+    <style name="MatchSpinnerTheme" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="android:dropDownListViewStyle">@style/MatchSpinnerStyle</item>
+    </style>
+
+    <style name="AlertDialogTheme">
+        <item name="buttonBarPositiveButtonStyle">@style/Alert.Button.Positive</item>
+        <item name="buttonBarNeutralButtonStyle">@style/Alert.Button.Neutral</item>
+    </style>
+
+    <style name="Alert.Button.Positive" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="backgroundTint">@color/blue</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="Alert.Button.Neutral" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="backgroundTint">@android:color/transparent</item>
+        <item name="rippleColor">@color/blue</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="RoundShapeTheme" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="shapeAppearanceMediumComponent">@style/RoundShapeAppearance</item>
+    </style>
+
+    <style name="RoundShapeAppearance" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <style name="ThemeOverlay.App.BottomNavigationView" parent="Theme.AppCompat">
+        <item name="colorSurface">#d1e4ff</item>
+        <item name="colorSecondaryContainer">@color/blue</item>
+    </style>
+
+    <style name="Theme.SpendWise.CustomTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+</resources>

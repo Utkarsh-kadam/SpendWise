@@ -20,9 +20,29 @@ The following dependencies are used in this project:
 - MPAndroidChart: implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
 
 ##  Screenshots
-![Dashboard](https://phx02pap006files.storage.live.com/y4m4ULNcPo39WGg_FXKpX_Ctavby07HIPKFtbeE-YLwxFmmMLcxZr0Ph6j8tbuESs71wG1knATPHugwFm2xsNpKi8B9Oqug04M2jvS7uuQkgbam53o5c-lCa4l2awIwodVGu55s_L8QYLhmRKVJTsBntP_hOYllFRnORIHRe3e4gN4adkJHl2hsnuPlx4T57YMQ?width=450&height=650&cropmode=none)
-![Summary](https://phx02pap006files.storage.live.com/y4m2iVjsU2e-gYQFSl1Op_JrDPL0-GCDaFuQOVF0H8D9EU1-zBf4GzRJ39bO7ZQTLaAyiKy0fw86JqfwWGIvvsudqebLHn-kycHufARFixl_hBCSJ7cgBF8LkhALwbwOjbJjF8aF2lMGezhRDOze6TWbNRk0O07_Y4_QxTlN1m2MnD2fP1GZzxSmxDpR5pJ046e?width=450&height=650&cropmode=none)
-![Add Transaction](https://phx02pap006files.storage.live.com/y4mHxUlta_4G1VRJLS8f0a3Xuy8BrZnc6oKhNwMt8ihEGc3k53yBLFIikA6124-la2v__aJ1b6Ncd-hGJaXn7D_DHEQG96Uf-9wXr8R-foDD9cNNwOjnYlCQ1uIEmTx32KbtTOOa40q-SFfAzatP2_n7j7Jdg1Mq5-wPljifCtyUJAaIICRuEMyp6VNe8JrsorW?width=450&height=650&cropmode=none)
-![Managge Categories](https://phx02pap006files.storage.live.com/y4mpqfN2FO8jIe2Rg7tH1T-OW0bQlm_rWK1rwhkKSiOo-bgvGEOdJ2nTfqA4cUpo5ASaT5r3pZSnqPKi94KhHGxN_VJ3YJ_ipTPYMRdzjysNZYl3tNA5bRUTw-SBH0srGe4vabv5rZ-x_EZweZB2I91Q-W3c2yeh9Mxwg1Ec4UZrbhYJSaIobFvzhvAssqL6YCx?width=450&height=650&cropmode=none)
-![Username Card](https://phx02pap006files.storage.live.com/y4mJJUCqvLYLoHIytFvTQUw-e8M4VR2M3_VXc45OCtEICc9QpZFtPiiGRSVk_tmIttwcB839kZcT7oF62C4F8M0xx3WUCroGNdVmoPVTdFZxwt0bdbWocxAsO7BgDkqrL_J4Ua0wM8fsyFO8cMKHzrS11bsawqJforATwjsC8QbVAc3sa3Uh3ksMR2TW4QL5ihX?width=450&height=650&cropmode=none)
-![Time interval](https://phx02pap006files.storage.live.com/y4mX1jFMVrOR8qs69IChIyywNsbNwtP14qgCfBeOWQ8JQXAToY7JTyU9Yq_zAAYZzRtohxi14lsmh-KLYVS-6ixzsKx7t-BksOjZ3yKEO5POXpyImurTYK-srnVXUj-p2pyCyNXqUWVnavx1mDbNnVX4s2aaj7vYJPBR0Xj0ivdYMEwsI2q7r5gRP5kpA7L-Sy5?width=450&height=650&cropmode=none)
+ <h3>1. Dashboard</h3>
+<img src = "https://github.com/Utkarsh-kadam/SpendWise/assets/99534647/c3fe3f09-9ba1-4a20-898f-53b50a7032cc"  width="320" height="600">
+<p>&nbsp;</p>
+
+<h3>2. Summary</h3>
+<img src = "https://github.com/Utkarsh-kadam/SpendWise/assets/99534647/7da6e1b3-0e6f-4b4e-82de-e1be327489ca"  width="320" height="600">
+<p>&nbsp;</p>
+
+<h3>3. Add Transaction</h3>
+<img src = "https://github.com/Utkarsh-kadam/SpendWise/assets/99534647/b00ba796-2a02-4297-ab1d-cf6feeee2066"  width="320" height="600">
+<p>&nbsp;</p>
+
+<h3>4. Manage Catergories</h3>
+<img src = "https://github.com/Utkarsh-kadam/SpendWise/assets/99534647/e9dfa64b-c28a-4f79-b7cc-c16bde4972b4"  width="320" height="600">
+<p>&nbsp;</p>
+
+<h3>5. Username Card </h3>
+<img src = "https://github.com/Utkarsh-kadam/SpendWise/assets/99534647/e929e858-36c9-4229-882f-c7667cc15fae"  width="320" height="600">
+<p>&nbsp;</p>
+
+<h3>6. Time interval </h3>
+<img src = "https://github.com/Utkarsh-kadam/SpendWise/assets/99534647/86302288-d6d3-4b4b-89a8-0889a782d62c"  width="320" height="600">
+<p>&nbsp;</p>
+
+
+
